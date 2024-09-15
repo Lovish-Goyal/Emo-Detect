@@ -80,9 +80,9 @@ This project uses computer vision techniques and deep learning to implement a re
 ## Example Output
 
 ### Screenshot 1
-<img src="images/Screenshot_1.png" alt="Screenshot 1" width="200px" height="200px" />
+<img src="images/Screenshot_1.png" alt="Screenshot 1" width="300px" height="200px" />
 
 ### Screenshot 2
-<img src="images/Screenshot_2.png" alt="Screenshot 2" width="200px" height="200px"/>
+<img src="images/Screenshot_2.png" alt="Screenshot 2" width="300px" height="200px"/>
 
 This is what real-time emotion detection looks like, with rectangles drawn around faces and emotion labels displayed on the frame.
