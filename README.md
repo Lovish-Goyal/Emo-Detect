@@ -80,7 +80,7 @@ This project uses computer vision techniques and deep learning to implement a re
 ## Example Output
 
 ![Sample Output]
-- **Screenshot1:** (images/Screenshit_1.png)
-- **Screenshot2:** (images/Screenshit_2.png)
+- **Screenshot1:** (images/Screenshot_1.png)
+- **Screenshot2:** (images/Screenshot_2.png)
 
 This is what real-time emotion detection looks like, with rectangles drawn around faces and emotion labels displayed on the frame.
