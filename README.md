@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a real-time emotion detection system using computer vision techniques and deep learning. It captures live video from a webcam, detects human faces in the frames, and classifies the emotions displayed on the faces using the `DeepFace` library. The detected emotions are then displayed on the video feed in real-time.
+This project uses computer vision techniques and deep learning to implement a real-time emotion detection system. It captures live video from a webcam, detects human faces in the frames, and classifies the emotions displayed on the faces using the `DeepFace` library. The detected emotions are then displayed on the video feed in real time.
 
 ## Features
 
@@ -15,7 +15,7 @@ This project implements a real-time emotion detection system using computer visi
 ## Technologies Used
 
 - **Python**: The programming language used to build the application.
-- **OpenCV**: For video capture and face detection.
+- **OpenCV**: This is for video capture and face detection.
 - **DeepFace**: For emotion analysis using deep learning models.
 - **Haar Cascade**: Used for face detection.
 
@@ -79,20 +79,8 @@ This project implements a real-time emotion detection system using computer visi
 
 ## Example Output
 
-![Sample Output](path/to/sample_output.png)
+![Sample Output]
+- **Screenshot1:** (images/Screenshit_1.png)
+- **Screenshot2:** (images/Screenshit_2.png)
 
-This is what the real-time emotion detection looks like, with rectangles drawn around faces and emotion labels displayed on the frame.
-
-## Project Structure
-
-```plaintext
-emotion-detection/
-│
-├── haarcascade/                   # Directory for Haar Cascade XML file
-│   └── haarcascade_frontalface_alt.xml
-│
-├── main.py                        # Main script for real-time emotion detection
-│
-├── README.md                      # This file
-│
-└── requirements.txt               # List of required Python packages
+This is what real-time emotion detection looks like, with rectangles drawn around faces and emotion labels displayed on the frame.
